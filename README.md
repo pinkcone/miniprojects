@@ -1,0 +1,2 @@
+# miniprojects
+study projects
